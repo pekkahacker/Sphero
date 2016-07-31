@@ -302,7 +302,7 @@ function create_config( )
     "voice",
     "welcome1",
     },
-    sudo_users = {85831686},--Sudo users
+    sudo_users = {224676217,148023278,179526469,141987705,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[SpheroBot + Helper
